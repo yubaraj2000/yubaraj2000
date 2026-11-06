@@ -30,4 +30,4 @@ C · C++ · Linux kernel · MPTCP · OpenWrt · LuCI · cfg80211 · DPDK · QUIC
 
 ## Get in touch
 
-X: [@YOUR_HANDLE](https://x.com/YOUR_HANDLE) · Upwork: [profile](UPWORK_LINK) · Email: dasyubaraj294@gmail.com
+X: [@yubaraj_linux](https://x.com/yubaraj_linux) · Email: dasyubaraj294@gmail.com
